@@ -9,3 +9,5 @@ for folder in liste:
         shutil.rmtree(savesFolder+folder)
 
 print(i)
+
+#put in .minecraft
