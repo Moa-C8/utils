@@ -12,8 +12,8 @@ x = dossier_cible.split("/")
 if (x[len(x)-1]) != " ":
   dossier_cible += '/'
  
-ext = input('extension ou null :)
-if (ext != '*.*)
+ext = input('extension ou null : ')
+if (ext != '*.*'):
     ext = ''
 
 copie=0
